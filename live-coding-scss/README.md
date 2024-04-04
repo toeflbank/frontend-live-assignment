@@ -1,6 +1,6 @@
 ## 유저리스트 요청 api 는 다음과 같습니다. **https://randomuser.me/api**
 
-## 필요한 검색 쿼리 파라미터로 **results(=응답 갯수)**, **gender(=성별)**가 있습니다.
+## 필요한 검색 쿼리 파라미터로 results(=응답 갯수), gender(=성별)가 있습니다.
 
 ### **https://randomuser.me/documentation** (= api docs)
 
