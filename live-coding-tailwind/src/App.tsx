@@ -1,5 +1,5 @@
 function App() {
-  return <></>;
+  return <div>make with tailwind</div>;
 }
 
 export default App;
