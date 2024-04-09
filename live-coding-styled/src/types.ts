@@ -1,3 +1,4 @@
+// api response type
 export interface Response {
   results: Result[];
   info: Info;

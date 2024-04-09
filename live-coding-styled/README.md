@@ -1,3 +1,5 @@
+## figma 주소는 다음과 같습니다. https://www.figma.com/file/5GzxXLiLljst6IO2W38iJO/Front-assignment?type=design&node-id=1-141&mode=design&t=ATxXcYe1BaaMZQCA-0
+
 ## 유저리스트 요청 api 는 다음과 같습니다. **https://randomuser.me/api**
 
 ## 필요한 검색 쿼리 파라미터로 results(=응답 갯수), gender(=성별)가 있습니다.
@@ -12,6 +14,7 @@
 
 ## 1. api 요청관련하여 다음 요구 사항을 따라주세요.
 
+- **src/types.ts** 에 api요청 응답 관련 타입이 정의되어 있습니다.
 - **50개의 results** (= 50명의 유저 정보)를 요청해주세요.
 - 초기 gender 선택값으로 **male** 버튼이 선택 되어있습니다. **female**버튼을 클릭시, 여성에 대한 데이터만을 받아올 수 있게 api 요청해주세요. (반대로 **male**버튼 클릭시, 남성에 대한 데이터만 받아옵니다.)
 
