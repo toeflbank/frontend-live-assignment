@@ -1,23 +1,31 @@
-# 구조
+##  🧑🏻‍💻 프론트엔드 엔지니어 라이브 코딩테스트
 
-📦live-assignment
+본 문서는 기술 과제에서 제출해야할 페이지 구성 등을 설명합니다.
 
-┣ 📂live-coding-emotionjs
+아래의 요구 사항에 만족하는 프로젝트를 구현해주세요.
 
-┣ 📂live-coding-scss
+## 프로젝트 구성 및 제한사항
 
-┣ 📂live-coding-styled
+프로젝트 구조는 아래와 같습니다.
 
-┣ 📂live-coding-tailwind
+- `emotionjs`, `scss`, `styled-components`, `tailwindcss` 선호하는 스타일 라이브러리 폴더를 선택하고 module 설치 후 진행해주세요.
+- 📦live-assignment
+    
+    ┣ 📂live-coding-emotionjs → `emotionjs 사용`
+    
+    ┣ 📂live-coding-scss → `scss 사용`
+    
+    ┣ 📂live-coding-styled → `styled-components 사용`
+    
+    ┣ 📂live-coding-tailwind → `tailwindcss 사용`
+    
+    ┗ 📜README.md
+    
 
-┗ 📜README.md
+제한 사항
 
-# 설명
-
-- emotionjs 를 사용하시는 분은 cd live-coding-emtionjs 들어가서 패키지매니저를 이용하여 module을 설치하시고 진행해주세요.
-
-- scss 를 사용하시는 분은 cd live-coding-scss 들어가서 패키지매니저를 이용하여 module을 설치하시고 진행해주세요.
-
-- styled-components 를 사용하시는 분은 cd live-coding-styled 들어가서 패키지매니저를 이용하여 module을 설치하시고 진행해주세요.
-
-- tailwind 를 사용하시는 분은 cd live-coding-tailwind 들어가서 패키지매니저를 이용하여 module을 설치하시고 진행해주세요.
+- 필수 사용 기술
+    - Typescript
+    - 상태 라이브러리 또는 fetching hooks library (라이브러리 선택은 자유)
+- 디자인 시안과 비슷하게 만들어주세요.
+- 필요에 따라 라이브러리는 자유롭게 설치 가능합니다.
